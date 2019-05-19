@@ -1,0 +1,12 @@
+{
+	"autoload": {
+		"psr-4": {
+			"mast\\": "vendor/mast/core",
+			"app\\": "app"
+		}
+	},
+
+	"require": {
+		 "gabordemooij/redbean": "dev-master"
+	}
+}
